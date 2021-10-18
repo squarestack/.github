@@ -1,2 +1,3 @@
-# .github
-PSS! This is a ✨ secret ✨ repo!
+# 🌹 Rose Development
+
+> The cake is a lie!
