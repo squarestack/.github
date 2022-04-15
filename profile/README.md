@@ -1,10 +1,6 @@
 ```
 ```
-
-![rose_banner](https://user-images.githubusercontent.com/49127376/163581575-d8dd26de-10e7-4c18-8b6a-a057c1acfcef.png)
-
-
-
+![ae_logo](https://user-images.githubusercontent.com/49127376/163598927-1c16e1ec-a027-454c-9971-1d91be2dfb74.png)
 ```
 ```
 
