@@ -1,6 +1,7 @@
 ```
 ```
-![ae_logo](https://user-images.githubusercontent.com/49127376/163598927-1c16e1ec-a027-454c-9971-1d91be2dfb74.png)
+![ae_banner_github_theme](https://user-images.githubusercontent.com/49127376/163605415-0eb455ca-e917-421e-a524-6ffbcb4da9e5.png)
+
 ```
 ```
 
