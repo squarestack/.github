@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![Photo showing our banner with logo](https://user-images.githubusercontent.com/49127376/193811338-4c727eb8-ce9f-48c8-8c3b-5587d3d93fb3.png)
+![Photo showing our banner with logo](https://user-images.githubusercontent.com/49127376/202155383-4d908276-9dad-45ac-a05d-b445f2b2ab30.png)
 
 
 Yes that's us! **Square Stack**. The people with big dreams. We are building open source projects with strong **focus on user privacy**. Our goal is to make the Internet **more secure**. In our applications everything is encrypted - __in fact even we don't have access to users' data__. 
