@@ -3,7 +3,8 @@
 ![Photo showing our banner with logo](https://user-images.githubusercontent.com/49127376/202155383-4d908276-9dad-45ac-a05d-b445f2b2ab30.png)
 
 
-Yes that's us! **Square Stack**. The people with big dreams. We are building open source projects with strong **focus on user privacy**. Our goal is to make the Internet **more secure**. In our applications everything is encrypted - __in fact even we don't have access to users' data__. 
+## 🤔 About us
+The people with big dreams. We are building open source projects with strong **focus on user privacy**. Our goal is to make the Internet **more secure**. In our applications everything is encrypted - __in fact even we don't have access to users' data__. 
 
 
 ## 🥂 Our Dreams
