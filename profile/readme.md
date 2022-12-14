@@ -13,9 +13,7 @@ We are the people with big dreams. We are building open source projects with str
 - We want our services to be **available to everyone**, **for free!**
 
 ## 😍 Want to join our team?
-Sorry, unfortunately we are currently not inviting contributors.<br/>
-But we have good news - in the near future we plan to introduce such a possibility!<br/>
-Stay tuned ❤️!
+We are looking for people who are interested in **open source** and **privacy**. If you are interested in joining our team, go to our [website](https://invite.squarestack.vercel.app/) and enter your email address. You will receive an email with GitHub invitation link.
 
 ## ✨ Our social media!
  - Twitter: [@stack_square](https://twitter.com/stack_square)
