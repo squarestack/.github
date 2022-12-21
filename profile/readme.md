@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![Photo showing our banner with logo](https://user-images.githubusercontent.com/49127376/202155383-4d908276-9dad-45ac-a05d-b445f2b2ab30.png)
+![Photo showing our banner with logo](https://user-images.githubusercontent.com/49127376/208977462-c55c0121-5a99-42ad-baf8-5c2fbac52079.png)
 
 
 ## 🤔 About us
