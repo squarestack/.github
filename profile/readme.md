@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![Photo showing our banner with logo](https://user-images.githubusercontent.com/49127376/208977462-c55c0121-5a99-42ad-baf8-5c2fbac52079.png)
+![Photo showing our banner with logo](https://invite.squarestack.vercel.app/images/og-image.png)
 
 
 ## 🤔 About us
