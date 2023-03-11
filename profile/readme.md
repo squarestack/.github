@@ -1,7 +1,6 @@
 ## Hey, this is us 👋
 
-![Photo showing our banner with logo](https://invite.squarestack.vercel.app/images/og-image.png)
-
+![Banner](https://user-images.githubusercontent.com/49127376/224505254-ee8e9218-c15c-4ad0-8aa3-6b5fe4320064.png)
 
 ## 🤔 About us
 We are the people with big dreams. We are building open source projects with strong **focus on user privacy**. Our goal is to make the Internet **more secure**. In our applications everything is encrypted - __in fact even we don't have access to users' data__. 
