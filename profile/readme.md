@@ -15,7 +15,7 @@ We are the people with big dreams. We are building open source projects with str
 We are looking for people who are interested in **open source** and **privacy**. If you are interested in joining our team, go to our [website](https://invite.squarestack.vercel.app/) and enter your email address. You will receive an email with GitHub invitation link.
 
 ## ✨ Our social media!
- - Twitter: [@stack_square](https://twitter.com/stack_square)
+ - Twitter: [@stack_square](https://twitter.com/it_is_just_that)
  - Instagram [@majonezexe](https://instagram.com/majonezexe)
  - Youtube [@majonezexe](https://youtube.com/c/Majonezexe)
 
